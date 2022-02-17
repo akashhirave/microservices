@@ -10,7 +10,7 @@ public class ApiGatewayApplication {
 	public static void main(String[] args) {
 		System.out.println("Make changes");
 		SpringApplication.run(ApiGatewayApplication.class, args);
-		System.out.println("Make changes from Git");
+		System.out.println("Make changes from Git-1");
 	}
 
 }
