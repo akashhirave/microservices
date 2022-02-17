@@ -8,9 +8,9 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient
 public class ApiGatewayApplication {
 	public static void main(String[] args) {
-		System.out.println("Make changes");
+		System.out.println("Make changes-1");
 		SpringApplication.run(ApiGatewayApplication.class, args);
-		System.out.println("Make changes from Git");
+		
 	}
 
 }
